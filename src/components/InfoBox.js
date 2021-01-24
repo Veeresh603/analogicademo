@@ -79,9 +79,7 @@ const Icon = styled.svg`
 
 `
 
-const Title = styled.title``
 
-const Path = styled.path``
 
 const Container03 = styled.div`
   display: flex;
