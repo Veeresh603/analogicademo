@@ -60,7 +60,7 @@ function App() {
 export default App;
 const Menu = styled.div`
   width: 100%;
-  height: 96px;
+  height: 70px;
   display: flex;
   flex-wrap: no-wrap;
   align-items: center;
@@ -68,7 +68,7 @@ const Menu = styled.div`
   justify-content: flex-start;
 `;
 const Logo = styled.img`
-  width: 234px;
+  width: 150px;
   height: 100%;
   object-fit: contain;
   margin-left: 50px;
