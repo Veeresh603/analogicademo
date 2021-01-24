@@ -47,7 +47,6 @@ const Container01 = styled.div`
     height: 372px;
     width: 276px;
     justify-content: flex-start;
-    margin-left:0px;
 
   }
   @media (max-width: 767px) {
