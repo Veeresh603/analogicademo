@@ -47,11 +47,15 @@ const Container01 = styled.div`
     height: 372px;
     width: 276px;
     justify-content: flex-start;
+    margin-left:0px;
+
   }
   @media (max-width: 767px) {
     width: 332px;
     height: 368px;
     margin-top: 20px;
+    margin-left:0px;
+
   }
 `
 
