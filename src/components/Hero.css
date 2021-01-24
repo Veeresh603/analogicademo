@@ -1,0 +1,17 @@
+.text_animation{
+    animation-name: shadow-drop-bottom;
+    animation-duration: 1s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate-reverse;
+    animation-fill-mode: none;
+}
+@keyframes shadow-drop-bottom {
+    0%{
+      box-shadow: 0 0 0 0 transparent;
+    }
+    100%{
+      box-shadow: 0 12px 20px -12px rgba(0,0,0,.35);
+    }
+  }
